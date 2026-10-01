@@ -1,3 +1,3 @@
   <div align="center">
 
-  [sstraw](https://cute.org)ㅤ[ata](https://cute.org)
+  [sstraw](https://murout.straw.page)ㅤ[ata](https://cute.org)
