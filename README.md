@@ -1,2 +1,3 @@
   <div align="center">
-[sstraw](wait) [ata](soon)
+
+  [sstraw](https://cute.org) [ata]([soon](https://cute.org))
